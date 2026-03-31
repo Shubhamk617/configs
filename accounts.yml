@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to shukumar accounts related local APIs "
+  contactDetails:
+    name: "shubham kumar- Developer"
+    email: "shubhamk617@gmail.com"
+  onCallSupport:
+    - 8935987605
+    - 8660685328
